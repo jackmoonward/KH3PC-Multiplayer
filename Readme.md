@@ -36,4 +36,4 @@ P2
 L3 + Square - Open/Close
 L3 + L1 - Decrement
 L3 + R1 - Increment
-L3 + Triangle - Select Character
+L3 + Triangle - Select Character 
