@@ -1,7 +1,5 @@
 ## BACKUP YOUR SAVE FILES & EXE FILES!
 
-Change your command menu style to "classic" in the options menu.
-
 ### Installation
 
 https://www.youtube.com/watch?v=mXj08nTzOaE
